@@ -49,10 +49,10 @@ nav a {
 	display: block;}
 	
 .current {
-	color: #61CDF5;}
+	color: #DE00CE;}
 	
 nav a:hover {
-	color: #61CDF5;}
+	color: #DE00CE;}
 	
 #logo {text-align: left;
 	display: inline-block;
